@@ -1,0 +1,23 @@
+{
+    "blue":"#0e85c7",
+    "darkblue":"#2E9EFF",
+    "gray":"#999999",
+    "lightGray":"#e6e7e8",
+    "mediumDarkGray":"#808080",
+    "mediumLighGray":"#CCCCCC",
+    "darkGray":"#666666",
+    "yellow":"#FFFF00",
+    "lightBlue":"#b6e2f9",
+    "orange":"#f5821f",
+    "markerBlue":"#0e85c7",
+    "userPinBlue":"#00aeef",
+    "chatGray":"#d1d3d4",
+    "costGray":"#bcbec0",
+    "lightRed":"#d78a73",
+    "pink":"#ed8a8d",
+    "darkRed":"#b91e23",
+    "red":"#ed1e25",
+    "green":"#0fb24b",
+    "lightGreen":"#9ed29c"
+
+}

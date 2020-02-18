@@ -1,0 +1,11 @@
+{
+    
+    "smallPadding":5,
+    "cardPadding":10,
+    "cardDoublePadding":20,
+    "smallRadius":5,
+    "mediumRadius":10,
+    "cardRadius":20,
+    "cardDoubleRadius":40
+
+}       

@@ -1,0 +1,43 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'abrika' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for abrika
+
+  target 'abrika-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'lottie-ios', :path => '../node_modules/lottie-ios'
+
+    pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
+
+    pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
+
+
+    pod 'react-native-image-base64', :path => '../node_modules/react-native-image-base64'
+
+  end
+
+  target 'abrikaTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'abrika-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for abrika-tvOS
+
+  target 'abrika-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
